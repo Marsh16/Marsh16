@@ -1,22 +1,23 @@
-# Hi there 👋, I'm Marsha a Software Engineer specializing in AI and iOS Development
+# Hi there 👋, 
+## I'm Marsha a Software Engineer specializing in AI and iOS Development
 
-**Connect With Me**
+***Connect With Me***
 
-<div align="center">
+<div>
     <a href="https://www.instagram.com/marshalikorawung/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
     <a href="https://www.linkedin.com/in/marsha-alexis-likorawung-16b13a267/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </div>
 
-**My Portfolio**
+***My Portfolio***
 
-<div align="center">
-    <a href="https://portfolio-marsha.vercel.app/"><img src="https://img.shields.io/badge/portfolio-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-</a>
+<div>
+    <a href="https://portfolio-marsha.vercel.app/"><img src="https://img.shields.io/badge/portfolio-161616?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" style="margin-bottom: 4px;" height="30px" target="_blank"/>
+    </a>
 </div>
 
 ## Statistics
 
-<div>
+<div align="center">
     <img height="154" src="https://github-readme-stats.vercel.app/api?username=marsh16&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github"/>
 </div>
 
@@ -67,4 +68,5 @@
     <img src="https://img.shields.io/badge/gemini-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Gemini" />
     <img src="https://img.shields.io/badge/openai-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white" alt="OpenAI" />
     <img src="https://img.shields.io/badge/ibm_watsonx-161616?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Watsonx" />
+    <img src="https://img.shields.io/badge/vercel-%230070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
 </div>
