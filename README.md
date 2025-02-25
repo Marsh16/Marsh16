@@ -10,7 +10,8 @@
 **My Portfolio**
 
 <div align="center">
-    <a href="https://portfolio-marsha.vercel.app/"><img src="portfolio-FF6F00?style=for-the-badge&logo=ibm&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+    <a href="https://portfolio-marsha.vercel.app/"><img src="https://img.shields.io/badge/portfolio-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+</a>
 </div>
 
 ## Statistics
@@ -65,5 +66,5 @@
     <img src="https://img.shields.io/badge/onesignal-813CF9?style=for-the-badge&logo=onesignal&logoColor=white" alt="Onesignal" />
     <img src="https://img.shields.io/badge/gemini-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Gemini" />
     <img src="https://img.shields.io/badge/openai-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white" alt="OpenAI" />
-    <img src="https://img.shields.io/badge/ibm_watsonx-FF6F00?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Watsonx" />
+    <img src="https://img.shields.io/badge/ibm_watsonx-161616?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Watsonx" />
 </div>
