@@ -10,9 +10,7 @@
 **My Portfolio**
 
 <div align="center">
-    <a href="https://portfolio-marsha.vercel.app/" style="text-decoration: none;">
-        <span style="font-family: 'Arial', sans-serif; font-size: 24px; font-weight: bold; color:rgb(83, 68, 240);">Marsha's Portfolio</span>
-    </a>
+    <a href="https://portfolio-marsha.vercel.app/"><img src="portfolio-FF6F00?style=for-the-badge&logo=ibm&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </div>
 
 ## Statistics
@@ -65,7 +63,7 @@
     <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
     <!-- Third Party -->
     <img src="https://img.shields.io/badge/onesignal-813CF9?style=for-the-badge&logo=onesignal&logoColor=white" alt="Onesignal" />
-    <img src="https://img.shields.io/badge/gemini_api-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Gemini" />
-    <img src="https://img.shields.io/badge/gemini_api-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="OpenAI" />
-    <img src="https://img.shields.io/badge/ibm_watsonx-161616?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Watsonx" />
+    <img src="https://img.shields.io/badge/gemini-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Gemini" />
+    <img src="https://img.shields.io/badge/openai-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white" alt="OpenAI" />
+    <img src="https://img.shields.io/badge/ibm_watsonx-FF6F00?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Watsonx" />
 </div>
