@@ -13,8 +13,8 @@
 ## Statistics
 
 <div align="center">
-    <img height="154" src="https://github-readme-stats.vercel.app/api?username=marsh16&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github"/>
-    <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsh16&layout=compact&text_color=daf7dc&bg_color=151515"/>
+    <img height="154" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marsh16&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="154" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marsh16&langs_count=8&layout=compact&hide_border=true&theme=radical"/>
 </div>
 
 #### Languages, Tools, and Skills 🛠
