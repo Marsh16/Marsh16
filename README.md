@@ -6,8 +6,10 @@
 <div align="center">
     <a href="https://www.instagram.com/marshalikorawung/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
     <a href="https://www.linkedin.com/in/marsha-alexis-likorawung-16b13a267/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-    <a href="https://portfolio-marsha.vercel.app/"><img src="https://img.shields.io/badge/portfolio-ED8B00?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" style="margin-bottom: 4px;" height="30px" target="_blank"/>
-    </a>
+    <a href="https://portfolio-marsha.vercel.app/"><img src="https://img.shields.io/badge/portfolio-ED8B00?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" style="margin-bottom: 4px;" height="30px" target="_blank"/></a>
+    <a href="https://universe.roboflow.com/marsh16"><img src="https://img.shields.io/badge/Roboflow-000000?style=for-the-badge&logo=roboflow&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+    <a href="https://www.kaggle.com/marshaalexis"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+    <a href="https://huggingface.co/Marsh16"><img src="https://img.shields.io/badge/Hugging%20Face-FFD200?style=for-the-badge&logo=huggingface&logoColor=black" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </div>
 
 ## Statistics
