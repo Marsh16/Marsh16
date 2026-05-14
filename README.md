@@ -1,7 +1,7 @@
 # Hi there 👋, 
 **I'm Marsha a Software Engineer specializing in AI and iOS Development**
 
-Currently learning native android development
+Currently learning mobile development
 
 **Connect With Me**
 
